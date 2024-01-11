@@ -1,10 +1,7 @@
-# Feedback Form
+# Feedback Form for abhyaz
 
 This is how we enter data.
-<img width="338" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/4f17d35b-fce4-4a0f-9ec1-daace3e7b8e6">
+<img width="350" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/5222c5ef-8439-4af1-b6dc-70155155af17">
 
-This is what you see after submit.
-<img width="341" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/5ffca49a-060c-4176-aed0-1780ff04ef40">
-
-This is the console output after submition.
-<img width="902" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/368ceced-06b3-4792-a916-045949ecd2a3">
+This is the console output after submission.
+<img width="909" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/da3931ca-55b3-4bd5-bf3d-be5317b914bf">
