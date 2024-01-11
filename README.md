@@ -1,6 +1,6 @@
-# Feedback Form for abhyaz
+# Feedback Form for Abhyaz
 
-This is how we enter data.
+This is how we enter data.<br>
 <img width="350" alt="image" src="https://github.com/nawarajshah/feedbackForm/assets/11453784/5222c5ef-8439-4af1-b6dc-70155155af17">
 
 This is the console output after submission.
